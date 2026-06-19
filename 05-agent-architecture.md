@@ -49,28 +49,21 @@ The same reason companies have departments is the reason AI systems need special
 Pandawa AI consists of six specialized agents and one orchestrator.
 
 ```
-                 Kresna
-                    │
-    ┌───────────────┼───────────────┐
-    │               │               │
- Yudhis          Bima            Juna
-Research        Product          Growth
-
-    │               │               │
-
- Nakula                         Sadewa
-Operations                      Finance
+              Kresna
+                 │
+    ┌────────┬───┴───┬───────┬──────┐
+    │        │       │       │      │
+ Yudhis    Bima    Juna   Nakula  Sadewa
+Research  Product Growth   Ops   Finance
 ```
 
-- Each agent owns a **specific domain**
-- Each agent has a **different way of thinking**
-- Each agent has different tools, memory, and responsibilities
+All six agents report directly to Kresna. There are no subordinate relationships between agents. Each agent owns a specific domain, a different way of thinking, and different tools, memory, and responsibilities.
 
 ---
 
 ## The Six Agents
 
-### Kresna — Personal AI Orchestrator
+### Kresna: Personal AI Orchestrator
 
 **Role:** Coordination and decision support.
 
@@ -87,7 +80,7 @@ Operations                      Finance
 
 ---
 
-### Yudhis — Chief of Research
+### Yudhis: Chief of Research
 
 **Responsibilities:**
 
@@ -105,7 +98,7 @@ Yudhis focuses on evidence. Not opinions.
 
 ---
 
-### Bima — Chief of Product
+### Bima: Chief of Product
 
 **Responsibilities:**
 
@@ -123,7 +116,7 @@ Bima transforms ideas into systems.
 
 ---
 
-### Juna — Chief of Growth
+### Juna: Chief of Growth
 
 **Responsibilities:**
 
@@ -141,7 +134,7 @@ Juna focuses on visibility and distribution.
 
 ---
 
-### Nakula — Chief of Operations
+### Nakula: Chief of Operations
 
 **Responsibilities:**
 
@@ -159,7 +152,7 @@ Nakula focuses on repeatability and efficiency.
 
 ---
 
-### Sadewa — Chief of Cash
+### Sadewa: Chief of Cash
 
 **Responsibilities:**
 
@@ -250,7 +243,7 @@ This changes behavior significantly.
 - **Without governance:** More tools create more risk
 - **With governance:** More tools create more leverage
 
-> **Real failure — June 13, 2026:** All five Pandawa agents went silent simultaneously. Juna. Bima. Yudhis. Nakula. Sadewa. Every single one. The Chief messaged them one by one. No response. Only Kresna answered. After two hours of debugging, we found the root cause: all five agents shared the same API key. When the provider rejected that key, every agent died at once. Kresna survived because it used a separate key. A single point of failure had been built into the architecture without anyone noticing. This is why governance is a layer, not an afterthought. Architecture decisions are governance decisions.
+> **Real failure: June 13, 2026:** All five Pandawa agents went silent simultaneously. Juna. Bima. Yudhis. Nakula. Sadewa. Every single one. The Chief messaged them one by one. No response. Only Kresna answered. After two hours of debugging, we found the root cause: all five agents shared the same API key. When the provider rejected that key, every agent died at once. Kresna survived because it used a separate key. A single point of failure had been built into the architecture without anyone noticing. This is why governance is a layer, not an afterthought. Architecture decisions are governance decisions.
 
 ---
 

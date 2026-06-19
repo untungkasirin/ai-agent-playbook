@@ -64,42 +64,42 @@ Instead of building one super-agent, I built **multiple specialists**.
 
 Each with a dedicated responsibility.
 
-### Yudhis — Chief of Research
+### Yudhis: Chief of Research
 
 - Business research
 - Academic research
 - Market intelligence
 - Opportunity discovery
 
-### Bima — Chief of Product
+### Bima: Chief of Product
 
 - Software architecture
 - Development
 - Infrastructure
 - Technical execution
 
-### Juna — Chief of Growth
+### Juna: Chief of Growth
 
 - SEO
 - Content
 - Landing pages
 - Growth strategies
 
-### Nakula — Chief of Operations
+### Nakula: Chief of Operations
 
 - Workflows
 - KPIs
 - Dashboards
 - Operational excellence
 
-### Sadewa — Chief of Cash
+### Sadewa: Chief of Cash
 
 - Cash flow
 - Financial monitoring
 - Forecasting
 - Risk detection
 
-### Kresna — Personal AI Orchestrator
+### Kresna: Personal AI Orchestrator
 
 - Coordination
 - Prioritization

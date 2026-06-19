@@ -6,7 +6,7 @@ Most AI agents fail not because they are not intelligent enough.
 
 They fail because they are not **trustworthy** enough.
 
-After building and using Pandawa AI — a multi-agent system that supports research, product development, sales, operations, and finance — I learned that **governance matters more than intelligence**.
+After building and using Pandawa AI, a multi-agent system that supports research, product development, sales, operations, and finance, I learned that **governance matters more than intelligence**.
 
 This repository documents the principles, architecture, and lessons learned from building AI agents that can be trusted in real-world business environments.
 
