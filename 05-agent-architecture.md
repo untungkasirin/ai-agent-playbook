@@ -46,7 +46,7 @@ The same reason companies have departments is the reason AI systems need special
 
 ## The Pandawa Structure
 
-Pandawa AI consists of six specialized agents and one orchestrator.
+Pandawa AI consists of five specialized agents and one orchestrator.
 
 ```
               Kresna
