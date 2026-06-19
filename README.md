@@ -30,7 +30,7 @@ This repository documents the principles, architecture, and lessons learned from
 | 01 | [Why Most AI Agents Fail](01-why-most-ai-agents-fail.md) |
 | 02 | [The Pandawa AI Story](02-the-pandawa-ai-story.md) |
 | 03 | Governance Before Intelligence |
-| 04 | Pandawa AI Golden Rules |
+| 04 | [Pandawa AI Golden Rules](04-pandawa-ai-golden-rules.md) |
 | 05 | Agent Architecture |
 | 06 | Human-in-the-Loop Design |
 | 07 | Multi-Agent Collaboration |
