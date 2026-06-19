@@ -50,7 +50,7 @@ Before making agents smarter, make them trustworthy.
 
 **Untung Kasirin** is a Finance Strategist, AI Builder, and SaaS Architect with more than 14 years of experience in Accounting and Finance.
 
-He is currently building **VISIA OS**, an organizational operating system powered by AI agents, business intelligence, and workflow automation.
+He is currently building **VISIA OS**, an AI-native business operating system for Indonesian SMEs (UMKM), and **Pandawa AI**, the agent layer that runs VISIA OS day to day.
 
 ---
 
