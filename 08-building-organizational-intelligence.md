@@ -167,11 +167,11 @@ The system automatically checks. All repositories. All build pipelines. All prod
 It responds:
 
 ```
-Kalkul: healthy. Last deploy 3 days ago. Pre-commit hooks active.
-UntungKasirin Web: healthy. Manual deploy 5 days ago. Auto-deploy still broken.
-CashBoard: healthy. 127 users. 3 new signups this week.
-Meroket: healthy. Knowledge context still empty. Juna auto-reply offline.
-Sahaba: service down. APP_KEY missing since setup.
+The restaurant POS system: healthy. Last deploy 3 days ago. Pre-commit hooks active.
+The personal blog: healthy. Manual deploy 5 days ago. Auto-deploy still broken.
+The finance bot: healthy. 127 users. 3 new signups this week.
+The sales system: healthy. Knowledge context still empty. Auto-reply offline.
+The inventory platform: service down. APP_KEY missing since setup.
 ```
 
 No manual analysis required. No checking each dashboard. No guessing what is broken and what is fine.
