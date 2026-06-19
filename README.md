@@ -31,7 +31,7 @@ This repository documents the principles, architecture, and lessons learned from
 | 02 | [The Pandawa AI Story](02-the-pandawa-ai-story.md) |
 | 03 | [Governance Before Intelligence](03-governance-before-intelligence.md) |
 | 04 | [Pandawa AI Golden Rules](04-pandawa-ai-golden-rules.md) |
-| 05 | Agent Architecture |
+| 05 | [Agent Architecture](05-agent-architecture.md) |
 | 06 | Human-in-the-Loop Design |
 | 07 | Multi-Agent Collaboration |
 | 08 | Building Organizational Intelligence |
