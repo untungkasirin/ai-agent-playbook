@@ -34,7 +34,7 @@ This repository documents the principles, architecture, and lessons learned from
 | 05 | [Agent Architecture](05-agent-architecture.md) |
 | 06 | [Human-in-the-Loop Design](06-human-in-the-loop-design.md) |
 | 07 | [Multi-Agent Collaboration](07-multi-agent-collaboration.md) |
-| 08 | Building Organizational Intelligence |
+| 08 | [Building Organizational Intelligence](08-building-organizational-intelligence.md) |
 
 ---
 
