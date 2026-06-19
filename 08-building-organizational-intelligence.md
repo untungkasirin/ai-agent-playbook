@@ -169,9 +169,9 @@ It responds:
 ```
 The restaurant POS system: healthy. Last deploy 3 days ago. Pre-commit hooks active.
 The personal blog: healthy. Manual deploy 5 days ago. Auto-deploy still broken.
-The finance bot: healthy. 127 users. 3 new signups this week.
+The cash monitoring system: healthy. 127 users. 3 new signups this week.
 The sales system: healthy. Knowledge context still empty. Auto-reply offline.
-The inventory platform: service down. APP_KEY missing since setup.
+The non-profit accounting system: service down. APP_KEY missing since setup.
 ```
 
 No manual analysis required. No checking each dashboard. No guessing what is broken and what is fine.
