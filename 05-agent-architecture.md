@@ -57,7 +57,7 @@ Pandawa AI consists of six specialized agents and one orchestrator.
 Research  Product Growth   Ops   Finance
 ```
 
-All six agents report directly to Kresna. There are no subordinate relationships between agents. Each agent owns a specific domain, a different way of thinking, and different tools, memory, and responsibilities.
+All five specialized agents report directly to Kresna. There are no subordinate relationships between agents. Each agent owns a specific domain, a different way of thinking, and different tools, memory, and responsibilities.
 
 ---
 
