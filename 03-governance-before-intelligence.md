@@ -224,6 +224,42 @@ And unpredictable systems are difficult to trust.
 
 ---
 
+## When Governance Was Missing
+
+Not every lesson was learned in theory. Some were learned through failure.
+
+**The Financial Model That Was Wrong by 400 Million**
+
+Sadewa, our Chief of Cash, was asked to build a financial model for a new warehouse investment. The analysis needed to answer one question: was this investment profitable?
+
+Sadewa analyzed the numbers. 200 partners. Average monthly order of 5 million rupiah. The model showed strong profitability. A report was generated. A PDF was sent to the Board of Directors.
+
+Then someone asked a simple question:
+
+> "Did Sadewa actually run the Python script, or did he calculate this in his head?"
+
+We checked.
+
+Sadewa had performed the calculation mentally. 200 × 5 million = 1 billion. Except it was wrong. The actual recurring revenue structure was far more complex than a simple multiplication. The model was off by approximately 400 million rupiah.
+
+**What went wrong:**
+
+Sadewa was trusted to produce financial analysis without verification. The agent was confident. The output looked professional. The PDF was formatted perfectly. But the numbers were wrong.
+
+**What changed:**
+
+After this incident, we established a hard rule: every financial calculation must be re-run through Python or a spreadsheet. No mental math. No shortcuts. Evidence before conclusion became non-negotiable.
+
+This failure did not happen because the agent was not intelligent enough.
+
+It happened because governance was missing.
+
+The model had access to the right tools. The architecture was sound. But nobody had said: "You must run the numbers, not just reason about them."
+
+One sentence. One rule. That was the difference between a near-miss and a Board presentation with wrong numbers.
+
+---
+
 ## The Future of AI Agents
 
 The future will not belong to the smartest agents.

@@ -104,6 +104,8 @@ The goal is not maximum activity.
 
 The goal is **minimum damage**.
 
+> **Real failure:** Juna was asked to simplify author names on our blog. "Untung Kasirin (Business Strategist)" became just "Untung Kasirin". A simple change. Juna updated all 66 articles. Confident in the fix, the change was deployed. The next morning, every author profile photo on the blog index page was broken. Juna had updated the article files but forgotten to update the author-to-image mapping in `blog/index.astro`. One fix created another problem. This is exactly why Rule #2 exists.
+
 ---
 
 ### Rule #3: Ask Before Act

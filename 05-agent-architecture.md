@@ -250,6 +250,8 @@ This changes behavior significantly.
 - **Without governance:** More tools create more risk
 - **With governance:** More tools create more leverage
 
+> **Real failure — June 13, 2026:** All five Pandawa agents went silent simultaneously. Juna. Bima. Yudhis. Nakula. Sadewa. Every single one. The Chief messaged them one by one. No response. Only Kresna answered. After two hours of debugging, we found the root cause: all five agents shared the same API key. When the provider rejected that key, every agent died at once. Kresna survived because it used a separate key. A single point of failure had been built into the architecture without anyone noticing. This is why governance is a layer, not an afterthought. Architecture decisions are governance decisions.
+
 ---
 
 ## The Evolution of an Agent
