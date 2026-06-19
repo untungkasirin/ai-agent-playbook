@@ -58,6 +58,40 @@ Just like in real organizations, specialization matters.
 
 ---
 
+## Why Five Domains?
+
+The five domains were not chosen randomly. They emerged from a business framework called **Visia Value Creation (VVC)**.
+
+Every business creates value through a sequence:
+
+```
+Research → Product → Sales → Profit → Cash
+```
+
+**Research** discovers what customers need and what competitors are doing. Without research, you build the wrong product.
+
+**Product** builds the solution. Without product, there is nothing to sell.
+
+**Sales** reaches customers and generates revenue. Without sales, the product stays unknown.
+
+**Profit** ensures the business is sustainable. Without profit, operations stop.
+
+**Cash** keeps the engine running. Without cash flow, even profitable businesses die.
+
+This sequence is not theoretical. It is the pipeline every business follows, whether it knows it or not.
+
+When a single AI agent tried to handle all five domains simultaneously, the result was predictable: shallow research, inconsistent code, generic content, error-prone financial analysis, and chaotic operations.
+
+The solution was not a better model.
+
+The solution was **one agent per domain**.
+
+Each agent would own one stage of the value creation pipeline. Each agent would think differently because each stage requires a different mindset.
+
+From that insight, Pandawa AI was born.
+
+---
+
 ## The Birth of Pandawa AI
 
 Instead of building one super-agent, I built **multiple specialists**.
