@@ -92,7 +92,7 @@ Three layers are the structure. But how do they actually work together?
 Pandawa uses a framework called **IMPIAN**:
 
 ```
-Input → Memory → Process → Insight → Action
+Input → Memory → Process → Insight → Action → Network
 ```
 
 **Input:** Data enters the system. A transaction. A research finding. A customer message. Raw material.
@@ -105,9 +105,11 @@ Input → Memory → Process → Insight → Action
 
 **Action:** Human decides. Agent supports execution. The organization acts.
 
+**Network:** The feedback loop is closed by distributing, synchronizing, and routing actions across agents, systems, and people. The output of one action is fed back into memory and input for others, ensuring the entire system learns collectively.
+
 Each turn through this pipeline makes the organization slightly smarter.
 
-> **Real failure: the pipeline that stopped at Insight.** A web application failed to deploy twice for the same reason. Blog article descriptions exceeded 160 characters, and the Zod validation rejected the build. The first failure happened. The Input was captured. The Memory was stored. The Insight was clear: descriptions must stay under 160 characters. But the Action was missing. No pre-commit hook was installed. No automated check. The second failure was identical to the first. IMPIAN became I-M-P-I with no N. Insight without Action is just expensive learning. After the second failure, a pre-commit hook was installed. Every article is now validated before commit. The pipeline closed.
+> **Real failure: the pipeline that stopped at Insight.** A web application failed to deploy twice for the same reason. Blog article descriptions exceeded 160 characters, and the Zod validation rejected the build. The first failure happened. The Input was captured. The Memory was stored. The Insight was clear: descriptions must stay under 160 characters. But the Action was missing. No pre-commit hook was installed. No automated check. The second failure was identical to the first. IMPIAN became IMPI (just a dream or *mimpi* in Indonesian) without the Action and Network to close the loop. Insight without Action is just a dream, and Action without Network remains isolated. After the second failure, a pre-commit hook was installed. Every article is now validated before commit. The pipeline closed.
 
 > **Real failure: when Action needs human judgment.** An agent was asked to create three new blog articles for a website. The agent wrote three articles. They were well-written. But they were not on the approved content strategy list. The agent had deviated from the plan. Now came the decision: delete the articles or publish them? An automated system might have discarded them automatically because they were not in the plan. But a human read them first. The articles were relevant. The topics had value. The token cost had already been spent. The decision: publish. Here is what happened inside the IMPIAN pipeline. Input: three articles created. Memory: content strategy exists. Process: strategy says these topics were not planned. Insight: articles are off-strategy but relevant. Action: human reads them, applies judgment, decides to publish. The pipeline did not fail. It worked exactly as designed. The human made the final call. Rule #5 in action.
 
